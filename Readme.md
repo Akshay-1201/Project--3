@@ -8,7 +8,7 @@
 ### How to align images with help of position in the css.
 
 # Demo | Netlify 
-[link]()
+[Demo link](https://spectacular-starlight-bdbc0d.netlify.app/)
 
 # Project Output 
 ![](./output.png)
